@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ru-Lai&#39;s Blog</title>
-    <link>http://example.org/tags/</link>
+    <link>https://ru-lai.github.org/tags/</link>
     <description>Recent content in Tags on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jan 2018 12:51:48 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building</title>
-      <link>http://example.org/tags/building/</link>
+      <link>https://ru-lai.github.org/tags/building/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/building/</guid>
+      <guid>https://ru-lai.github.org/tags/building/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://ru-lai.github.org/tags/development/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://ru-lai.github.org/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finishing</title>
-      <link>http://example.org/tags/finishing/</link>
+      <link>https://ru-lai.github.org/tags/finishing/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/finishing/</guid>
+      <guid>https://ru-lai.github.org/tags/finishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goals</title>
-      <link>http://example.org/tags/goals/</link>
+      <link>https://ru-lai.github.org/tags/goals/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/goals/</guid>
+      <guid>https://ru-lai.github.org/tags/goals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Happy</title>
-      <link>http://example.org/tags/happy/</link>
+      <link>https://ru-lai.github.org/tags/happy/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/happy/</guid>
+      <guid>https://ru-lai.github.org/tags/happy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>http://example.org/tags/health/</link>
+      <link>https://ru-lai.github.org/tags/health/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/health/</guid>
+      <guid>https://ru-lai.github.org/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>http://example.org/tags/learning/</link>
+      <link>https://ru-lai.github.org/tags/learning/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/learning/</guid>
+      <guid>https://ru-lai.github.org/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Years Resolution</title>
-      <link>http://example.org/tags/new-years-resolution/</link>
+      <link>https://ru-lai.github.org/tags/new-years-resolution/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/new-years-resolution/</guid>
+      <guid>https://ru-lai.github.org/tags/new-years-resolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity</title>
-      <link>http://example.org/tags/productivity/</link>
+      <link>https://ru-lai.github.org/tags/productivity/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/productivity/</guid>
+      <guid>https://ru-lai.github.org/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://example.org/tags/programming/</link>
+      <link>https://ru-lai.github.org/tags/programming/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/programming/</guid>
+      <guid>https://ru-lai.github.org/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/tags/projects/</link>
+      <link>https://ru-lai.github.org/tags/projects/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/projects/</guid>
+      <guid>https://ru-lai.github.org/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review</title>
-      <link>http://example.org/tags/review/</link>
+      <link>https://ru-lai.github.org/tags/review/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/review/</guid>
+      <guid>https://ru-lai.github.org/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>http://example.org/tags/software-development/</link>
+      <link>https://ru-lai.github.org/tags/software-development/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/software-development/</guid>
+      <guid>https://ru-lai.github.org/tags/software-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Engineering</title>
-      <link>http://example.org/tags/software-engineering/</link>
+      <link>https://ru-lai.github.org/tags/software-engineering/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/tags/software-engineering/</guid>
+      <guid>https://ru-lai.github.org/tags/software-engineering/</guid>
       <description></description>
     </item>
     

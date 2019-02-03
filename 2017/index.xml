@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on Ru-Lai&#39;s Blog</title>
-    <link>http://example.org/2017/</link>
+    <link>https://ru-lai.github.org/2017/</link>
     <description>Recent content in 2017 on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.org/2017/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Upping Your Value as a Developer</title>
-      <link>http://example.org/2017/uppingyourvalue/</link>
+      <link>https://ru-lai.github.org/2017/uppingyourvalue/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/2017/uppingyourvalue/</guid>
+      <guid>https://ru-lai.github.org/2017/uppingyourvalue/</guid>
       <description>Recently, as I was working to integrate our company’s new web platform with react, redux, and react router, I had an epiphany about how I can better create value at work.
 I used to think the creation of value was all about how much you got done. Metrics for this could be the number of tasks completed, number of bugs fixed, or lines of legacy code eliminated through re-factoring in the code base.</description>
     </item>
     
     <item>
-      <title>How Spaced Review Changed My Life</title>
-      <link>http://example.org/2017/spacedrepetitionchangedlife/</link>
+      <title>How Spaced Repetition Changed My Life</title>
+      <link>https://ru-lai.github.org/2017/spacedrepetitionchangedlife/</link>
       <pubDate>Sun, 09 Apr 2017 12:51:48 -0800</pubDate>
       
-      <guid>http://example.org/2017/spacedrepetitionchangedlife/</guid>
+      <guid>https://ru-lai.github.org/2017/spacedrepetitionchangedlife/</guid>
       <description>The Beginning   I didn’t start out in this world happy.
 When I was young I felt different from most people. I would check out mentally at school, not want to play with friends, and spend a lot of my time watching TV and wishing I was someone else.
 Most of my distress early on resulted from my mother’s passing away when I was four-and-a-half. Two years later more was added on when my father chose to remarry a physically and emotionally abusive woman.</description>
