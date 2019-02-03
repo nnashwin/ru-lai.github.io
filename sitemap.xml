@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tab/projects/</loc>
+    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tab/about/</loc>
+    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2018/learningonthejob/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2018/settingquittinggoals/</loc>
+    <lastmod>2018-11-05T12:51:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2018/onehalfsideprojects/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/uppingyourvalue/</loc>
+    <lastmod>2017-09-25T12:51:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/spacedrepetitionchangedlife/</loc>
+    <lastmod>2017-04-09T12:51:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2018/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2019/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/building/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/development/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/finishing/</loc>
+    <lastmod>2018-11-05T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/goals/</loc>
+    <lastmod>2018-11-05T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/happy/</loc>
+    <lastmod>2017-09-25T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/health/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/improvement/</loc>
+    <lastmod>2017-09-25T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/learning/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/learning/</loc>
+    <lastmod>2017-09-25T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/new-years-resolution/</loc>
+    <lastmod>2018-11-05T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/productivity/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/programming/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/programming/</loc>
+    <lastmod>2017-09-25T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/projects/</loc>
+    <lastmod>2018-11-05T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/review/</loc>
+    <lastmod>2018-12-09T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/software-development/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/software-engineering/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tab/</loc>
+    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-01-27T12:51:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

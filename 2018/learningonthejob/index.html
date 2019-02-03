@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<title>Ru-Lai&#39;s Blog</title>
+	<link rel="stylesheet" href="http://example.org/css/nes-personal.min.css" />
+	<link rel="stylesheet" href="http://example.org/css/main.css" />
+</head>
+
+	<body>
+		<div class="mw_32rem m_centered">
+			<header class="ta_c container with-title is-center">
+	<a class="td_n h_td_n" href="http://example.org/">
+		<h2 class="lts_3px c_b h_c_b">
+			如來
+		</h2>
+	</a>
+	<p>Game Dev, Programming, and Improving the Learning Process.</p>
+</header>
+
+			<section class="lis_n m_t_2pt5rem ">
+	<ul class="nav-container ta_c p_0">
+		<a class="nav-elem" href="http://example.org/">
+			<li class="lis_n btn is-primary">
+				Home
+			</li>
+		</a>
+		
+			
+				
+			
+		
+			
+				
+			
+				
+			
+				
+			
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+			
+				
+			
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+			
+				
+					<a class="nav-elem" href="http://example.org/tab/projects/">
+						<li class="lis_n btn is-primary">
+							Projects
+						</li>
+					</a>
+				
+			
+				
+					<a class="nav-elem" href="http://example.org/tab/about/">
+						<li class="lis_n btn is-primary">
+							About
+						</li>
+					</a>
+				
+			
+		
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		
+	</ul>
+</section>
+
+			<section id="post" class="post-header-bar">
+				<h1 class="m_b_0">
+					Learning on the job
+				</h1>
+				<span class="c_188rgb">December 9, 2018</span>
+				<article class="m_t_2rem">
+					
+
+<figure>
+    <img src="https://cdn-images-1.medium.com/max/2600/1*NAjSVHBu5kd-34MzrN1b5Q.jpeg" alt="Work desk covered with development books, a notepad, and a laptop">
+    <figcaption>The learner's work desk</figcaption>
+</figure>
+
+<p>One of the most rewarding (and challenging) things you can do as a developer is to implement something you’ve never done before.</p>
+
+<p>It’s even harder to is implement something you have never done before while on a deadline. The pressure of needing to get work done in a specific time frame can add more stress to the already difficult challenge of finding an optimal solution to a new problem.</p>
+
+<p>I recently had the opportunity to do both and wanted to share my thoughts on the experience.
+<br>
+<br></p>
+
+<h2 id="problem-definition">Problem Definition</h2>
+
+<p>The task I was presented with was to implement graphql resolvers for a backend service. We are in the process of building a service to store encrypted data for users looking to communicate with each other. On top of this, our company also has a collection of services we want to unite together under one query api.</p>
+
+<p>The proposed solution for the unification was to use graphql, a technology produced by Facebook to make these types of operations much simpler. Facebook has implemented solid open-source technology our company used in the past, so graphql was a perfect fit to our ecosystem of Facebook tools.</p>
+
+<p>To many people who have relevant experience, the task of implementing a graphql resolver sounds simple enough; and there are tons of resources online documenting how to accomplish this exact task. It’s not a novel problem. But there were a couple obstacles thrown my way which impeded the speed at which I was able to progress.</p>
+
+<p><br></p>
+
+<h2 id="the-art-of-not-knowing">The Art of Not Knowing</h2>
+
+<p>I started off with zero knowledge of graphql. I had heard a talk or to about how it is so revolutionary, but I didn’t remember what I had seen. To add more complexity to the task, the language the graphql service is written in is java, so the implementation of the service client needed to match. Having nearly no experience Java previously, there was a lot of knowledge I needed to learn at a syntax and abstraction level to complete the task.</p>
+
+<p>Traditional OOP concepts such as data transfer objects, polymorphism, and even maintaining models for objects used to convert between the data entering the service and what could be used to talk to the database were extremely foreign to me, so there were many degrees of complexity I needed to account for in my mental model.</p>
+
+<p>I did my best to power through the task and asked as many questions as my lead could handle. If you can find a way, having the guidance of a mentor when learning new things is absolutely invaluable. Even better, he didn’t tell me exactly what to do, letting me explore the problem space to figure out which abstractions to use at what time and iterate over the ideas I had.</p>
+
+<p>He was always there for me to ask questions and bounce ideas off of, which turned out to be exactly what I needed.</p>
+
+<p>The result? It took me about 3 weeks team (a week later than our original estimate), and I learned enough to share out enough concepts to write this article. I was afforded the time to iterate over the resolver code a few times, and the version of the product that went out to pre-prod is working as expected.</p>
+
+<p>The following are a few tenets I followed to make the most of the learning I needed to do to complete the task.
+<br>
+<br></p>
+
+<h2 id="have-a-review-system-in-place">Have a Review System in Place</h2>
+
+<p>Always review what you learn.</p>
+
+<p>Whether it be short term review, where you write down all that you have learned each day and email it to yourself, or a more gradual system where you can review every few days to convert information to long-term memory, if you do not review what you learn about and around the technologies you use, it will take much longer for you to really become skilled at using them. You will also repeat mistakes you and others on your team make, wasting valuable time unnecessarily.</p>
+
+<p>Our working memory is extremely limited in how many different items we can manipulate at one time [2] (only about 4–7), so the more information you can store in long-term memory, the better chance you have of using that information in actual problem solving at the correct time. [1].</p>
+
+<p>Throughout this month I encountered a vast amount of new information, from text editor shortcuts to graph ql schema gotchas to my company-specific libraries and their dependency issues, and the only thing that saved the task and allowed me to keep moving forward was the time I took to review new knowledge I learned each day.</p>
+
+<p>I learned so much that when we needed to add more resolvers to the shared Graphql service consuming them, I was able to complete the task in 2 working days instead of 15. I’d imagine going forward I will be able to work much faster because of all that I have learned, and save valuable development and debugging time.</p>
+
+<p>As long as you keep reviewing and building your surface of knowledge towards a task, you will keep practicing skills and improving your ability to build, debug, and optimize systems.
+<br>
+<br></p>
+
+<h2 id="give-yourself-time-to-rest">Give yourself time to rest</h2>
+
+<p>Consolidation of information requires persistence, time on task, and sleep. The times you are learning the most on the job is also when you need to rest the most.</p>
+
+<p>I tried my best to follow a few rest-focused practices during the process of implementing the graphql resolver. During the day, I would work for chunks of 25 minutes to half an hour at a time, taking breaks in between to go for walks around our office campus. Each night, I would make sure that I was sleeping enough to facilitate the amount of learning I needed to do to complete the task.</p>
+
+<p>I discovered much earlier in my career that I was much more productive with 4 focused hours of work (not including break time) than with a distracted 8 hours on task, so I do my best to optimize for this number. Not attending meetings that directly affected our team, not always being available on messaging systems, and keeping a relatively distraction-free environment enable me to really spend time looking into a problem and formulating information I learn each day to improve my development process.</p>
+
+<p>Not only do the 4 hours of focused work enable me to learn more and work with better quality, but I also don’t fall into the trap of doing negative development work. When you perform complicated tasks that stretch the surface of knowledge you have and occupy large amounts of working memory, letting yourself be distracted or not maintaining optimum amounts of focus can cause you to do work that actually ends up handicapping you in the long run.</p>
+
+<p>Negative work is extremely prevalent in software development. Add incorrect dependencies, forget to pin versions, or write methods with a misguided logic path or two and the maintainer of this piece of code in the future, either future you or some other developer, will want to shoot you in the face how much time they need to take to read and debug what you wrote.</p>
+
+<p>Some engineers consistently work in a distracted state of mind and end up producing more time-wasting issues than efficient, working code. These engineers have a negative net impact with their work, and they hurt the team rather than push the project forward.</p>
+
+<p>Do yourself and your teammates a favor and don’t write code while you are mentally exhausted. Don’t write code while you are distracted, while you are on the phone, or when you have 20 people asking you questions. It will benefit the team and future maintainers of the project far into the future of its lifespan.
+<br>
+<br></p>
+
+<h2 id="exercise-daily">Exercise Daily</h2>
+
+<p>At the end of each work day, I would go to the gym or volleyball court and work out for at least 50 minutes.</p>
+
+<p>This might sound like a lot, but the 50 minute mark has been the accumulation of a couple years of practice. The practice I’m talking about isn’t related to the exercises I perform or the amount of weight I can lift. The practice I mean is the practice of getting to the gym, of bringing my gym clothes Monday through Friday and going each day regardless of the amount of time I spend. This practice is the foundation of all other outcomes or accomplishments in the gym, and this practice is the one that was the hardest for me to incorporate into my life.</p>
+
+<p>I didn’t start out exercising 50 minutes a day, and I don’t recommend beginners to consistent exercise trying to force their bodies to meet this standard. I started with working out 20–30 minutes, gauging my energy and mood, then making an decision whether or not to keep exercising.</p>
+
+<p>What I found out over time is that the more I did this, the easier it was for me to stay. After a few months, if I don’t go exercise for around this amount 3 or 4 days a week minimum, I feel that something is wrong. My body feels unhealthy, and I am not as happy as when I do go to the gym.</p>
+
+<p>The increased blood flow and reduction of stress aids long-term health and is conducive for increased neurogenesis, the process of growing new brain cells that occurs in everyone’s brain, to help facilitate better learning [3].</p>
+
+<p>Although this gradual method of improvement isn’t the sexiest guide to working out, it tends to be the one which has the biggest long-term impact. Remember, it’s not always the most exciting ideas that produce the best results. Rather, it’s often the continuous application of “boring” methodologies in new ways that end up having the most impact on your brain health and work life.
+<br>
+<br></p>
+
+<h2 id="practice-positivity">Practice Positivity</h2>
+
+<p>There were many times during this task where I felt out of my element. There was such a multitude of facts to learn on a deadline I felt scared I wouldn’t be able to complete it. When stress piles up on a person, even the simple action of starting a task seems like an insurmountable challenge.</p>
+
+<p>Any combination of a seemingly infinite amount of variables can come together and hurt your sense of confidence in solving a particular problem. Luckily, <i>feelings are not facts</i>, and there are ways to continue to both feel and continue to push forward in solving a particular problem.</p>
+
+<p>When the stress level in a project begin to ramp up higher, shifts in tracking progress are in order. One of the best mindset shifts you can use to help you continue to make progress is to judge yourself by the progress you make in any given day over the amount of work left to do.</p>
+
+<p>While rereading the previous sentence, the idea seems counterintuitive. It seems that if we are to work towards specific, long-term goals, it seems that our natural inclination is to view each day’s progress as a fraction of that big goal. However, the human brain doesn’t tend to maintain long-term plans particularly well, choosing rather to remain present in the here and now in order to effectively mark resources and prevent danger. If you think about it, we need to balance our natural tendency of exploration while avoiding life-threatening situations in the wild of the past. This tends to optimize for the short-term.</p>
+
+<p>However, if we only look at how much distance is left until our goal, we are only rewarded when we actually achieve it. There is no reward along the long path it takes to get there. And if we don’t reward ourselves with the feeling of completion or of enjoyment on any particular day, most of the time we can not change our course and plot towards longer horizons.</p>
+
+<p>We have already mentioned the formula for good problem solving is time on task, learning information related to the problem, and getting good sleep. If you are optimizing for those three things on any particular day, you know you are on the right track.</p>
+
+<p>During this particular problem, I used my habit of tracking my time on task to literally watch myself “rack up the points”. Each day, I would work an uninterrupted 2–4 hours. At the end of each day, I would look back, see how much progress I made, and revel in the fact that I learned a ton and was just THAT much closer to the solution (even when I didn’t know exactly how long that would take).</p>
+
+<p>The answers will come with time. As long as you continue to research the task, ask around for extra context and information, and write down / process what you learn, you can complete the task at some point in time. That point in time may be much slower than the lead who has used this specific tech stack and been in the company for over 15 years, but it doesn’t mean YOU won’t be able to finish it and attain the level of proficiency she at some time.</p>
+
+<p>Yes, sometimes it will feel like everyone else knows much more about a particular problem set than you. Yes, you will be tasked with issues which require you to spend more time than many of your coworkers. But rest assured that it is in theses fires of frustration your technical skills are forged.</p>
+
+<p>As long as you keep working towards solving your problem, your success is eventual! Keep working steadfastly and the answers will come.
+<br>
+<br></p>
+
+<h2 id="going-forward">Going Forward</h2>
+
+<p>The more you are able to learn on the job, the more people will give you opportunities to contribute. The consistent building of system and technological knowledge will enable you to solve deeper and harder problems than previously thought possible, and you will be given tasks of a much greater scale.</p>
+
+<p>Do this for a long enough time and you will be an expert in your field, called upon to solve large and small problems of great value.
+<br>
+<br></p>
+
+<p><i>
+Extra Resources Mentioned above:</p>
+
+<p>[1] <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow">Thinking Fast and Slow</a></p>
+
+<p>[2] <a href="https://en.wikipedia.org/wiki/Working_memory">Working Memory</a></p>
+
+<p>[3] <a href="https://www.sciencedaily.com/releases/2016/02/160208083606.htm">Exercise and Increased Neurogenesis</a>
+</i></p>
+
+				</article>
+			</section>
+			<section class="post-header-bar">
+	<footer class="ta_c">
+		<p>Have any questions about my work, learning Chinese, or anything?  Feel free to ask me <a href="https://github.com/ru-lai/ama/issues/new">here</a>.</p>
+	</footer>
+</section>
+
+		</div>
+	</body>
+</html>
