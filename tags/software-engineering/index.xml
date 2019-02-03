@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering on Ru-Lai&#39;s Blog</title>
-    <link>https://ru-lai.github.org/tags/software-engineering/</link>
+    <link>https://ru-lai.github.io/tags/software-engineering/</link>
     <description>Recent content in Software Engineering on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jan 2018 12:51:48 -0800</lastBuildDate>
     
-	<atom:link href="https://ru-lai.github.org/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One (and a Half) Reasons You Should ALWAYS Be Working on Side Projects.</title>
-      <link>https://ru-lai.github.org/2018/onehalfsideprojects/</link>
+      <link>https://ru-lai.github.io/2018/onehalfsideprojects/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/onehalfsideprojects/</guid>
+      <guid>https://ru-lai.github.io/2018/onehalfsideprojects/</guid>
       <description>Starting the new facebook.  Picture your day-to-day at work. You go into the office, sit down, do your morning standup — a quick meeting in the agile method to update everyone on the progress you have made on your tasks — and open your email to see what meetings you have. You walk down the hall to whichever break room has been allotted to your team and pour yourself a cup of coffee.</description>
     </item>
     

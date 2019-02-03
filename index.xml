@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ru-Lai&#39;s Blog</title>
-    <link>https://ru-lai.github.org/</link>
+    <link>https://ru-lai.github.io/</link>
     <description>Recent content on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ru-lai.github.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://ru-lai.github.org/tab/projects/</link>
+      <link>https://ru-lai.github.io/tab/projects/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ru-lai.github.org/tab/projects/</guid>
+      <guid>https://ru-lai.github.io/tab/projects/</guid>
       <description>Check out some of the best projects I&amp;rsquo;ve worked on over the years. Golang Interview A github repo of interview questions I&amp;rsquo;ve completed in Golang separated by topic for concentrated study. Included in the readmes are mistakes, simple complexity analysis and extra things I personally learned from each question. Block the Youtube Feed A simple chrome extension that blocks the recommended videos and main feed on youtube to minimize distractions and maximize youtube productivity.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ru-lai.github.org/tab/about/</link>
+      <link>https://ru-lai.github.io/tab/about/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ru-lai.github.org/tab/about/</guid>
+      <guid>https://ru-lai.github.io/tab/about/</guid>
       <description>Incremental Reader. Software Engineer at X company. Creator of a few libraries, tools, and scripts. Building everyday. I didn&amp;rsquo;t start this journey always knowing what I loved to do, I have just slowly started to find it. A long time ago, I remember I talked to a friendly neighbor and asked him how he knew what he wanted to do when he grew up. He laughed and told me he still didn&amp;rsquo;t know.</description>
     </item>
     
     <item>
       <title>Learning on the job</title>
-      <link>https://ru-lai.github.org/2018/learningonthejob/</link>
+      <link>https://ru-lai.github.io/2018/learningonthejob/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/learningonthejob/</guid>
+      <guid>https://ru-lai.github.io/2018/learningonthejob/</guid>
       <description>The learner&#39;s work desk  One of the most rewarding (and challenging) things you can do as a developer is to implement something you’ve never done before.
 It’s even harder to is implement something you have never done before while on a deadline. The pressure of needing to get work done in a specific time frame can add more stress to the already difficult challenge of finding an optimal solution to a new problem.</description>
     </item>
     
     <item>
       <title>What I Learned this Year by Setting (and Quitting) Goals</title>
-      <link>https://ru-lai.github.org/2018/settingquittinggoals/</link>
+      <link>https://ru-lai.github.io/2018/settingquittinggoals/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/settingquittinggoals/</guid>
+      <guid>https://ru-lai.github.io/2018/settingquittinggoals/</guid>
       <description>I started this year with a spreadsheet full of goals.
 Unlike most years, where my goals are nebulous and rough, with phrases like “learn Japanese” or “build more open source tools”, these goals were concrete.
 Each of my goals had a quantifiable end state and a way to keep score.
@@ -53,29 +53,29 @@ Each of my goals had a quantifiable end state and a way to keep score.
     
     <item>
       <title>One (and a Half) Reasons You Should ALWAYS Be Working on Side Projects.</title>
-      <link>https://ru-lai.github.org/2018/onehalfsideprojects/</link>
+      <link>https://ru-lai.github.io/2018/onehalfsideprojects/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/onehalfsideprojects/</guid>
+      <guid>https://ru-lai.github.io/2018/onehalfsideprojects/</guid>
       <description>Starting the new facebook.  Picture your day-to-day at work. You go into the office, sit down, do your morning standup — a quick meeting in the agile method to update everyone on the progress you have made on your tasks — and open your email to see what meetings you have. You walk down the hall to whichever break room has been allotted to your team and pour yourself a cup of coffee.</description>
     </item>
     
     <item>
       <title>Upping Your Value as a Developer</title>
-      <link>https://ru-lai.github.org/2017/uppingyourvalue/</link>
+      <link>https://ru-lai.github.io/2017/uppingyourvalue/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2017/uppingyourvalue/</guid>
+      <guid>https://ru-lai.github.io/2017/uppingyourvalue/</guid>
       <description>Recently, as I was working to integrate our company’s new web platform with react, redux, and react router, I had an epiphany about how I can better create value at work.
 I used to think the creation of value was all about how much you got done. Metrics for this could be the number of tasks completed, number of bugs fixed, or lines of legacy code eliminated through re-factoring in the code base.</description>
     </item>
     
     <item>
       <title>How Spaced Repetition Changed My Life</title>
-      <link>https://ru-lai.github.org/2017/spacedrepetitionchangedlife/</link>
+      <link>https://ru-lai.github.io/2017/spacedrepetitionchangedlife/</link>
       <pubDate>Sun, 09 Apr 2017 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2017/spacedrepetitionchangedlife/</guid>
+      <guid>https://ru-lai.github.io/2017/spacedrepetitionchangedlife/</guid>
       <description>The Beginning   I didn’t start out in this world happy.
 When I was young I felt different from most people. I would check out mentally at school, not want to play with friends, and spend a lot of my time watching TV and wishing I was someone else.
 Most of my distress early on resulted from my mother’s passing away when I was four-and-a-half. Two years later more was added on when my father chose to remarry a physically and emotionally abusive woman.</description>

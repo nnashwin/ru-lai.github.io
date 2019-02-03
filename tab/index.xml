@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tabs on Ru-Lai&#39;s Blog</title>
-    <link>https://ru-lai.github.org/tab/</link>
+    <link>https://ru-lai.github.io/tab/</link>
     <description>Recent content in Tabs on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ru-lai.github.org/tab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.io/tab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://ru-lai.github.org/tab/projects/</link>
+      <link>https://ru-lai.github.io/tab/projects/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ru-lai.github.org/tab/projects/</guid>
+      <guid>https://ru-lai.github.io/tab/projects/</guid>
       <description>Check out some of the best projects I&amp;rsquo;ve worked on over the years. Golang Interview A github repo of interview questions I&amp;rsquo;ve completed in Golang separated by topic for concentrated study. Included in the readmes are mistakes, simple complexity analysis and extra things I personally learned from each question. Block the Youtube Feed A simple chrome extension that blocks the recommended videos and main feed on youtube to minimize distractions and maximize youtube productivity.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ru-lai.github.org/tab/about/</link>
+      <link>https://ru-lai.github.io/tab/about/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ru-lai.github.org/tab/about/</guid>
+      <guid>https://ru-lai.github.io/tab/about/</guid>
       <description>Incremental Reader. Software Engineer at X company. Creator of a few libraries, tools, and scripts. Building everyday. I didn&amp;rsquo;t start this journey always knowing what I loved to do, I have just slowly started to find it. A long time ago, I remember I talked to a friendly neighbor and asked him how he knew what he wanted to do when he grew up. He laughed and told me he still didn&amp;rsquo;t know.</description>
     </item>
     

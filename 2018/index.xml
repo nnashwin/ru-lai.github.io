@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 on Ru-Lai&#39;s Blog</title>
-    <link>https://ru-lai.github.org/2018/</link>
+    <link>https://ru-lai.github.io/2018/</link>
     <description>Recent content in 2018 on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ru-lai.github.org/2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.io/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning on the job</title>
-      <link>https://ru-lai.github.org/2018/learningonthejob/</link>
+      <link>https://ru-lai.github.io/2018/learningonthejob/</link>
       <pubDate>Sun, 09 Dec 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/learningonthejob/</guid>
+      <guid>https://ru-lai.github.io/2018/learningonthejob/</guid>
       <description>The learner&#39;s work desk  One of the most rewarding (and challenging) things you can do as a developer is to implement something you’ve never done before.
 It’s even harder to is implement something you have never done before while on a deadline. The pressure of needing to get work done in a specific time frame can add more stress to the already difficult challenge of finding an optimal solution to a new problem.</description>
     </item>
     
     <item>
       <title>What I Learned this Year by Setting (and Quitting) Goals</title>
-      <link>https://ru-lai.github.org/2018/settingquittinggoals/</link>
+      <link>https://ru-lai.github.io/2018/settingquittinggoals/</link>
       <pubDate>Mon, 05 Nov 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/settingquittinggoals/</guid>
+      <guid>https://ru-lai.github.io/2018/settingquittinggoals/</guid>
       <description>I started this year with a spreadsheet full of goals.
 Unlike most years, where my goals are nebulous and rough, with phrases like “learn Japanese” or “build more open source tools”, these goals were concrete.
 Each of my goals had a quantifiable end state and a way to keep score.
@@ -35,10 +35,10 @@ Each of my goals had a quantifiable end state and a way to keep score.
     
     <item>
       <title>One (and a Half) Reasons You Should ALWAYS Be Working on Side Projects.</title>
-      <link>https://ru-lai.github.org/2018/onehalfsideprojects/</link>
+      <link>https://ru-lai.github.io/2018/onehalfsideprojects/</link>
       <pubDate>Sat, 27 Jan 2018 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/2018/onehalfsideprojects/</guid>
+      <guid>https://ru-lai.github.io/2018/onehalfsideprojects/</guid>
       <description>Starting the new facebook.  Picture your day-to-day at work. You go into the office, sit down, do your morning standup — a quick meeting in the agile method to update everyone on the progress you have made on your tasks — and open your email to see what meetings you have. You walk down the hall to whichever break room has been allotted to your team and pour yourself a cup of coffee.</description>
     </item>
     

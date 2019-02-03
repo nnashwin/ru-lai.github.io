@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ru-Lai&#39;s Blog</title>
-    <link>https://ru-lai.github.org/categories/</link>
+    <link>https://ru-lai.github.io/categories/</link>
     <description>Recent content in Categories on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ru-lai.github.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ru-lai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improvement</title>
-      <link>https://ru-lai.github.org/categories/improvement/</link>
+      <link>https://ru-lai.github.io/categories/improvement/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/categories/improvement/</guid>
+      <guid>https://ru-lai.github.io/categories/improvement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>https://ru-lai.github.org/categories/learning/</link>
+      <link>https://ru-lai.github.io/categories/learning/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/categories/learning/</guid>
+      <guid>https://ru-lai.github.io/categories/learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://ru-lai.github.org/categories/programming/</link>
+      <link>https://ru-lai.github.io/categories/programming/</link>
       <pubDate>Mon, 25 Sep 2017 12:51:48 -0800</pubDate>
       
-      <guid>https://ru-lai.github.org/categories/programming/</guid>
+      <guid>https://ru-lai.github.io/categories/programming/</guid>
       <description></description>
     </item>
     
