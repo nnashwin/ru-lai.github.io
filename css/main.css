@@ -112,18 +112,28 @@ img {
 	margin: 0 auto;
 }
 
-
 .post-date {
 	display: block;
+}
+
+.post-header-bar:before {
+	display: block;
+	content: "";
+	width: 100px;
+	height: 1px;
+	margin: 2.5rem auto;
+	background-color: rgb(204, 204, 204);
+}
+
+.post-item + .post-year {
+	margin-top: 2rem;
 }
 
 .post-year {
 	margin: 0.5rem 0;
 }
 
-.post-item + .post-year {
-	margin-top: 2rem;
-}
+
 
 /* single attribute classes */
 
@@ -231,11 +241,7 @@ img {
 	max-width: 32rem;
 }
 
-.post-header-bar:before {
-	display: block;
-	content: "";
-	width: 100px;
-	height: 1px;
-	margin: 2.5rem auto;
-	background-color: rgb(204, 204, 204);
+/* word-wrap */
+.ww_bw {
+	word-wrap: break-word;
 }
