@@ -6,10 +6,21 @@
     <description>Recent content in Reflection on Ru-Lai&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 12:51:48 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 12:51:48 -0800</lastBuildDate>
     
 	<atom:link href="https://ru-lai.github.io/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Case for Spaced Repetition</title>
+      <link>https://ru-lai.github.io/2019/caseforspacedrepetition/</link>
+      <pubDate>Sun, 14 Apr 2019 12:51:48 -0800</pubDate>
+      
+      <guid>https://ru-lai.github.io/2019/caseforspacedrepetition/</guid>
+      <description>I’ve previously talked high-level about how I started using spaced repetition and using Anki with Programming. The hard benefits of using Spaced Repetition in learning are documented in many places.
+However, many popular articles supporting learning with Spaced Repetition only focus on learning languages. Why Spaced Repetition works and how to use it to learn well any learning materials are not always clear.
+The simple explanation of why spaced repetition works is that people retain information much better when they study right before they forget.</description>
+    </item>
     
     <item>
       <title>Five Years after a Coding Boot Camp</title>
